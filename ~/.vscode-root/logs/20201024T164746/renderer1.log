@@ -1,0 +1,6 @@
+[2020-10-24 16:48:08.976] [renderer1] [error] Network Error: Error: Network Error
+    at e.exports (/usr/share/code/resources/app/node_modules.asar/tas-client-umd/lib/tas-client-umd.js:1:7511)
+    at XMLHttpRequest.p.onerror (/usr/share/code/resources/app/node_modules.asar/tas-client-umd/lib/tas-client-umd.js:1:6478)
+[2020-10-24 16:48:08.978] [renderer1] [error] net::ERR_NAME_NOT_RESOLVED: Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:105:6395)
+    at SimpleURLLoaderWrapper.emit (events.js:223:5)

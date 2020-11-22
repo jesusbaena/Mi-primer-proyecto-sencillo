@@ -1,0 +1,20 @@
+<p>
+    <strong>Title:</strong>
+    <%= @article.try(:title)%>
+</p>
+
+<p>
+    <strong>Text:</strong>
+    <%= @article.try(:text) %>
+</p>
+
+<h2>Comentarios</h2>
+
+<%= render @articles.comments %>
+
+<h2>Agregar comentarios</h2>
+
+<%= render "comments/form" %>
+
+<%= link_to 'Atrás', articles_path %>
+<%= link_to 'Editar', edit_article_path(@articles) %>
