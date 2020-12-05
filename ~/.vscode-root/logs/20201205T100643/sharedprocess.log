@@ -1,0 +1,14 @@
+[2020-12-05 10:06:50.272] [sharedprocess] [info] main {"machineId":"209f4f853a2e7815f85b340fb087e844dd5f2b47eda1127b4321f30b00cde2fd","windowId":2}
+[2020-12-05 10:07:30.362] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-12-05 10:08:41.146] [sharedprocess] [info] Installing extension: rebornix.ruby
+[2020-12-05 10:08:42.976] [sharedprocess] [info] Downloaded extension: rebornix.ruby undefined
+[2020-12-05 10:08:43.766] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.rebornix.ruby-0.27.0: rebornix.ruby
+[2020-12-05 10:08:43.767] [sharedprocess] [info] Renamed to /root/.vscode/extensions/rebornix.ruby-0.27.0
+[2020-12-05 10:08:43.770] [sharedprocess] [info] Installation completed. rebornix.ruby
+[2020-12-05 10:08:44.282] [sharedprocess] [info] Installing extension: wingrunr21.vscode-ruby
+[2020-12-05 10:08:45.300] [sharedprocess] [info] Downloaded extension: wingrunr21.vscode-ruby undefined
+[2020-12-05 10:08:45.412] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.wingrunr21.vscode-ruby-0.27.0: wingrunr21.vscode-ruby
+[2020-12-05 10:08:45.413] [sharedprocess] [info] Renamed to /root/.vscode/extensions/wingrunr21.vscode-ruby-0.27.0
+[2020-12-05 10:08:45.415] [sharedprocess] [info] Installation completed. wingrunr21.vscode-ruby
+[2020-12-05 10:08:45.462] [sharedprocess] [info] Extensions installed successfully: wingrunr21.vscode-ruby
+[2020-12-05 10:08:45.467] [sharedprocess] [info] Extensions installed successfully: rebornix.ruby

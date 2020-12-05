@@ -1,0 +1,61 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/jesusb/Documentos/blog5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :app/controllers/comments_controller.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/controllers/comments_controller.rb
+> git cat-file -s dc5670cc8f367a15295cb4d82c1a925629bdd1c3
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:~/.vscode-root/Network Persistent State
+> git ls-tree -l HEAD -- /home/jesusb/Documentos/blog5/~/.vscode-root/Network Persistent State
+> git check-ignore -v -z --stdin
+> git show --textconv :app/controllers/comments_controller.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/controllers/comments_controller.rb
+> git cat-file -s dc5670cc8f367a15295cb4d82c1a925629bdd1c3
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/controllers/comments_controller.rb
+> git symbolic-ref --short HEAD
+> git cat-file -s dc5670cc8f367a15295cb4d82c1a925629bdd1c3
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git show --textconv :app/controllers/comments_controller.rb
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/controllers/comments_controller.rb
+> git cat-file -s dc5670cc8f367a15295cb4d82c1a925629bdd1c3
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git check-ignore -v -z --stdin
+> git show --textconv :app/controllers/comments_controller.rb
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/controllers/comments_controller.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/controllers/comments_controller.rb
+> git cat-file -s dc5670cc8f367a15295cb4d82c1a925629bdd1c3
+> git show --textconv :app/controllers/articles_controller.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/controllers/articles_controller.rb
+> git cat-file -s 97950ccc193bd0d3df16bdb10b1baf13460627dc
+> git show --textconv :app/models/article.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/models/article.rb
+> git cat-file -s 44580b836a4c9b3c7507fd08efe545b76157f0b3
+> git check-ignore -v -z --stdin
