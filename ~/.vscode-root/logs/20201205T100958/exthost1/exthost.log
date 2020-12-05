@@ -32,3 +32,5 @@
 [2020-12-05 10:15:25.627] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extensionEditingMain
 [2020-12-05 10:15:25.683] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
 [2020-12-05 10:15:25.683] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-12-05 10:22:31.856] [exthost] [info] ExtensionService#_doActivateExtension donjayamanne.githistory {"startup":false,"extensionId":{"value":"donjayamanne.githistory","_lower":"donjayamanne.githistory"},"activationEvent":"*"}
+[2020-12-05 10:22:31.857] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/donjayamanne.githistory-0.6.14/dist/src/extension

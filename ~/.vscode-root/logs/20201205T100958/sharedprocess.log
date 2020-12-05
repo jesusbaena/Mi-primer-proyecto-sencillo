@@ -14,3 +14,9 @@
 [2020-12-05 10:17:02.931] [sharedprocess] [info] Extensions installed successfully: melvinguerrero.latino-vscode
 [2020-12-05 10:17:05.054] [sharedprocess] [info] Uninstalling extension: melvinguerrero.latino-vscode
 [2020-12-05 10:17:05.121] [sharedprocess] [info] Successfully uninstalled extension: melvinguerrero.latino-vscode
+[2020-12-05 10:22:26.775] [sharedprocess] [info] Installing extension: donjayamanne.githistory
+[2020-12-05 10:22:30.533] [sharedprocess] [info] Downloaded extension: donjayamanne.githistory undefined
+[2020-12-05 10:22:31.305] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.donjayamanne.githistory-0.6.14: donjayamanne.githistory
+[2020-12-05 10:22:31.307] [sharedprocess] [info] Renamed to /root/.vscode/extensions/donjayamanne.githistory-0.6.14
+[2020-12-05 10:22:31.312] [sharedprocess] [info] Installation completed. donjayamanne.githistory
+[2020-12-05 10:22:31.352] [sharedprocess] [info] Extensions installed successfully: donjayamanne.githistory
