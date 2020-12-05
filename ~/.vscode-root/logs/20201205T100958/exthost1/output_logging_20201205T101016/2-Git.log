@@ -28,3 +28,86 @@ Open repository: /home/jesusb/Documentos/blog5
 > git remote --verbose
 > git show --textconv :app/models/article.rb
 > git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/models/article.rb
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git cat-file -s 44580b836a4c9b3c7507fd08efe545b76157f0b3
+> git config --get commit.template
+> git show --textconv :app/models/article.rb
+> git show --textconv HEAD:~/.vscode-root/TransportSecurity
+> git show --textconv :~/.vscode-root/TransportSecurity
+> git ls-tree -l HEAD -- /home/jesusb/Documentos/blog5/~/.vscode-root/TransportSecurity
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/~/.vscode-root/TransportSecurity
+> git cat-file -s 01d7add7ab5dd7667183efc6ad506511ee99484a
+> git check-ignore -v -z --stdin
+> git ls-tree -l HEAD -- /home/jesusb/Documentos/blog5/~/.vscode-root/TransportSecurity
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/~/.vscode-root/TransportSecurity
+> git cat-file -s 01d7add7ab5dd7667183efc6ad506511ee99484a
+> git show --textconv :app/models/article.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/models/article.rb
+> git cat-file -s 44580b836a4c9b3c7507fd08efe545b76157f0b3
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/models/article.rb
+> git config --get commit.template
+> git cat-file -s 44580b836a4c9b3c7507fd08efe545b76157f0b3
+> git show --textconv :app/models/article.rb
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/jesusb/Documentos/blog5/app/models/article.rb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/models/article.rb
+> git cat-file -s 20a7c278237962635ea226f116889d9152445486
+> git config --get commit.template
+> git show --textconv :app/models/article.rb
+> git show --textconv :app/controllers/articles_controller.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/controllers/articles_controller.rb
+> git cat-file -s 97950ccc193bd0d3df16bdb10b1baf13460627dc
+> git show --textconv :app/models/article.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/models/article.rb
+> git cat-file -s 20a7c278237962635ea226f116889d9152445486
+> git show --textconv HEAD:app/models/article.rb
+> git show --textconv :app/models/article.rb
+> git ls-tree -l HEAD -- /home/jesusb/Documentos/blog5/app/models/article.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/models/article.rb
+> git cat-file -s 20a7c278237962635ea226f116889d9152445486
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:~/.vscode-root/storage.json
+> git show --textconv :~/.vscode-root/storage.json
+> git ls-tree -l HEAD -- /home/jesusb/Documentos/blog5/~/.vscode-root/storage.json
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/~/.vscode-root/storage.json
+> git cat-file -s 70a603f055b5d692034257c55b8af1035e441368
+> git check-ignore -v -z --stdin
+> git ls-tree -l HEAD -- /home/jesusb/Documentos/blog5/app/models/article.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/models/article.rb
+> git cat-file -s 20a7c278237962635ea226f116889d9152445486
+> git show --textconv HEAD:app/models/article.rb
+> git show --textconv :app/models/article.rb
+> git ls-tree -l HEAD -- /home/jesusb/Documentos/blog5/app/models/article.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/models/article.rb
+> git cat-file -s 20a7c278237962635ea226f116889d9152445486
+> git ls-tree -l HEAD -- /home/jesusb/Documentos/blog5/app/models/article.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/models/article.rb
+> git cat-file -s 20a7c278237962635ea226f116889d9152445486

@@ -1,2 +1,16 @@
 [2020-12-05 10:10:04.179] [sharedprocess] [info] main {"machineId":"209f4f853a2e7815f85b340fb087e844dd5f2b47eda1127b4321f30b00cde2fd","windowId":2}
 [2020-12-05 10:10:44.281] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-12-05 10:16:06.892] [sharedprocess] [info] Installing extension: thekalinga.bootstrap4-vscode
+[2020-12-05 10:16:07.913] [sharedprocess] [info] Downloaded extension: thekalinga.bootstrap4-vscode undefined
+[2020-12-05 10:16:08.704] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.thekalinga.bootstrap4-vscode-6.1.0: thekalinga.bootstrap4-vscode
+[2020-12-05 10:16:08.705] [sharedprocess] [info] Renamed to /root/.vscode/extensions/thekalinga.bootstrap4-vscode-6.1.0
+[2020-12-05 10:16:08.715] [sharedprocess] [info] Installation completed. thekalinga.bootstrap4-vscode
+[2020-12-05 10:16:08.789] [sharedprocess] [info] Extensions installed successfully: thekalinga.bootstrap4-vscode
+[2020-12-05 10:16:57.135] [sharedprocess] [info] Installing extension: melvinguerrero.latino-vscode
+[2020-12-05 10:17:01.943] [sharedprocess] [info] Downloaded extension: melvinguerrero.latino-vscode undefined
+[2020-12-05 10:17:02.866] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.melvinguerrero.latino-vscode-1.0.2: melvinguerrero.latino-vscode
+[2020-12-05 10:17:02.867] [sharedprocess] [info] Renamed to /root/.vscode/extensions/melvinguerrero.latino-vscode-1.0.2
+[2020-12-05 10:17:02.869] [sharedprocess] [info] Installation completed. melvinguerrero.latino-vscode
+[2020-12-05 10:17:02.931] [sharedprocess] [info] Extensions installed successfully: melvinguerrero.latino-vscode
+[2020-12-05 10:17:05.054] [sharedprocess] [info] Uninstalling extension: melvinguerrero.latino-vscode
+[2020-12-05 10:17:05.121] [sharedprocess] [info] Successfully uninstalled extension: melvinguerrero.latino-vscode
