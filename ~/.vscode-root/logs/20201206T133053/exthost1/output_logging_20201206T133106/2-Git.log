@@ -273,3 +273,144 @@ Open repository: /home/jesusb/Documentos/blog5
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname)
 > git remote --verbose
 > git config --get commit.template
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/database.yml
+> git cat-file -s 0af08c9f34ed9f1a612cc3b172f7264aa550e7db
+> git show --textconv :config/database.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/database.yml
+> git config --get commit.template
+> git cat-file -s 0af08c9f34ed9f1a612cc3b172f7264aa550e7db
+> git show --textconv :config/database.yml
+> git show --textconv :config/routes.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/routes.rb
+> git cat-file -s e974ec1c9c8eb8239491c321d21ae44404416509
+> git show --textconv :app/views/welcome/index.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/views/welcome/index.html.erb
+> git cat-file -s 7a43a6f4d83b0b073fb7ac0c59c2c93b13cd4f11
+> git show --textconv :config/routes.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/routes.rb
+> git cat-file -s e974ec1c9c8eb8239491c321d21ae44404416509
+> git show --textconv :config/database.yml
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/database.yml
+> git cat-file -s 0af08c9f34ed9f1a612cc3b172f7264aa550e7db
+> git show --textconv :config/routes.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/routes.rb
+> git cat-file -s e974ec1c9c8eb8239491c321d21ae44404416509
+> git show --textconv :config/puma.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/puma.rb
+> git cat-file -s 5ed44377449e9c5102f0ac5ab01c646097886a70
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/assets/stylesheets/articles.scss
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/assets/stylesheets/articles.scss
+> git cat-file -s 8ed8706585aa945e8c26d8073b371b66a0953b48
+> git show --textconv :app/assets/stylesheets/comments.scss
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/assets/stylesheets/comments.scss
+> git cat-file -s 69088e8c440f17a191b81b3321c1a917993d06f0
+> git show --textconv :app/assets/stylesheets/posts.scss
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/assets/stylesheets/posts.scss
+> git cat-file -s 92891f7864ef7fcf50330c19063ae47770473378
+> git show --textconv :app/assets/stylesheets/welcome.scss
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/assets/stylesheets/welcome.scss
+> git cat-file -s 5042f7d1464be531bbb9059ac8a91daf00f7aba5
+> git show --textconv :app/assets/stylesheets/application.css
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/assets/stylesheets/application.css
+> git cat-file -s d05ea0f51121598f49fa5bebf85fa0723d33d1a4
+> git show --textconv :app/assets/stylesheets/articles.scss
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/assets/stylesheets/articles.scss
+> git cat-file -s 8ed8706585aa945e8c26d8073b371b66a0953b48
+> git show --textconv :app/assets/stylesheets/comments.scss
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/assets/stylesheets/comments.scss
+> git cat-file -s 69088e8c440f17a191b81b3321c1a917993d06f0
+> git show --textconv :app/assets/stylesheets/posts.scss
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/assets/stylesheets/posts.scss
+> git cat-file -s 92891f7864ef7fcf50330c19063ae47770473378
+> git show --textconv :app/assets/stylesheets/welcome.scss
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/assets/stylesheets/welcome.scss
+> git cat-file -s 5042f7d1464be531bbb9059ac8a91daf00f7aba5
+> git show --textconv :config/routes.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/routes.rb
+> git cat-file -s e974ec1c9c8eb8239491c321d21ae44404416509
+> git show --textconv :app/assets/stylesheets/welcome.scss
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/assets/stylesheets/welcome.scss
+> git cat-file -s 5042f7d1464be531bbb9059ac8a91daf00f7aba5
+> git show --textconv :config/routes.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/routes.rb
+> git cat-file -s e974ec1c9c8eb8239491c321d21ae44404416509
+> git show --textconv :config/database.yml
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/database.yml
+> git cat-file -s 0af08c9f34ed9f1a612cc3b172f7264aa550e7db
+> git show --textconv :config/cable.yml
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/cable.yml
+> git cat-file -s 5274d4a005278043830f2025a4abfedc25a03d64
+> git show --textconv :config/database.yml
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/database.yml
+> git cat-file -s 0af08c9f34ed9f1a612cc3b172f7264aa550e7db
+> git show --textconv :config/routes.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/routes.rb
+> git cat-file -s e974ec1c9c8eb8239491c321d21ae44404416509
+> git show --textconv :app/views/welcome/index.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/views/welcome/index.html.erb
+> git cat-file -s 7a43a6f4d83b0b073fb7ac0c59c2c93b13cd4f11
+> git check-ignore -v -z --stdin
+> git show --textconv :public/404.html
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/public/404.html
+> git cat-file -s 2be3af26fc5a3d019690b50e0849651dde258794
+> git show --textconv :config/routes.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/routes.rb
+> git cat-file -s e974ec1c9c8eb8239491c321d21ae44404416509
+> git show --textconv :public/404.html
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/public/404.html
+> git cat-file -s 2be3af26fc5a3d019690b50e0849651dde258794
+> git show --textconv :app/views/welcome/index.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/views/welcome/index.html.erb
+> git cat-file -s 7a43a6f4d83b0b073fb7ac0c59c2c93b13cd4f11
+> git show --textconv :config/routes.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/routes.rb
+> git cat-file -s e974ec1c9c8eb8239491c321d21ae44404416509
+> git show --textconv :public/404.html
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/public/404.html
+> git cat-file -s 2be3af26fc5a3d019690b50e0849651dde258794
+> git show --textconv :app/views/welcome/index.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/views/welcome/index.html.erb
+> git cat-file -s 7a43a6f4d83b0b073fb7ac0c59c2c93b13cd4f11
+> git show --textconv :config/routes.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/routes.rb
+> git cat-file -s e974ec1c9c8eb8239491c321d21ae44404416509

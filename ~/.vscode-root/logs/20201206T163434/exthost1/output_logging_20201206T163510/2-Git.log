@@ -1,0 +1,33 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/jesusb/Documentos/blog5
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :config/routes.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/routes.rb
+> git cat-file -s e974ec1c9c8eb8239491c321d21ae44404416509
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :public/404.html
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/public/404.html
+> git cat-file -s 2be3af26fc5a3d019690b50e0849651dde258794
+> git show --textconv :config/routes.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/routes.rb
+> git cat-file -s e974ec1c9c8eb8239491c321d21ae44404416509
+> git show --textconv :app/views/welcome/index.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/views/welcome/index.html.erb
+> git cat-file -s 7a43a6f4d83b0b073fb7ac0c59c2c93b13cd4f11
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/views/articles/_form.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/views/articles/_form.html.erb
+> git cat-file -s 0b120735dc3b0639a51e9afed816b343c685477e

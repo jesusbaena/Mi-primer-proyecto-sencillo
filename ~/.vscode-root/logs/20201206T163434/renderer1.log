@@ -1,0 +1,7 @@
+[2020-12-06 16:34:56.206] [renderer1] [error] Network Error: Error: Network Error
+    at e.exports (/usr/share/code/resources/app/node_modules.asar/tas-client-umd/lib/tas-client-umd.js:1:7511)
+    at XMLHttpRequest.p.onerror (/usr/share/code/resources/app/node_modules.asar/tas-client-umd/lib/tas-client-umd.js:1:6478)
+[2020-12-06 16:34:58.141] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:105:6395)
+    at SimpleURLLoaderWrapper.emit (events.js:223:5)
+[2020-12-06 16:35:11.369] [renderer1] [warning] UNRESPONSIVE extension host, 'HookyQR.beautify' took 85% of 6104.242ms, saved PROFILE here: '/tmp/exthost-1a2b10.cpuprofile' [{"id":"donjayamanne.githistory","total":109962,"percentage":2},{"id":"gc","total":23803,"percentage":0},{"id":"HookyQR.beautify","total":5189880,"percentage":85},{"id":"program","total":9942,"percentage":0},{"id":"rebornix.ruby","total":31661,"percentage":1},{"id":"self","total":619090,"percentage":10},{"id":"vscode.debug-auto-launch","total":881,"percentage":0},{"id":"vscode.emmet","total":5840,"percentage":0},{"id":"vscode.git","total":39015,"percentage":1},{"id":"vscode.merge-conflict","total":179,"percentage":0},{"id":"vscode.microsoft-authentication","total":19628,"percentage":0},{"id":"vscode.npm","total":53921,"percentage":1}]
