@@ -86,3 +86,64 @@ Open repository: /home/jesusb/Documentos/blog5
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname)
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/routes.rb
+> git cat-file -s e974ec1c9c8eb8239491c321d21ae44404416509
+> git show --textconv :config/routes.rb
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/routes.rb
+> git config --get commit.template
+> git cat-file -s e974ec1c9c8eb8239491c321d21ae44404416509
+> git show --textconv :config/routes.rb
+> git show --textconv :app/views/welcome/index.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/views/welcome/index.html.erb
+> git cat-file -s 7a43a6f4d83b0b073fb7ac0c59c2c93b13cd4f11
+> git show --textconv :config/routes.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/routes.rb
+> git cat-file -s e974ec1c9c8eb8239491c321d21ae44404416509
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:~/.vscode-root/logs/20201206T133053/exthost1/output_logging_20201206T133106/2-Git.log
+> git ls-tree -l HEAD -- /home/jesusb/Documentos/blog5/~/.vscode-root/logs/20201206T133053/exthost1/output_logging_20201206T133106/2-Git.log
+> git check-ignore -v -z --stdin
+> git show --textconv :.gitignore
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/.gitignore
+> git cat-file -s 790502db749eeab01aac4d0834b6f40d74557182
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :config/routes.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/routes.rb
+> git cat-file -s e974ec1c9c8eb8239491c321d21ae44404416509
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/routes.rb
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git cat-file -s e974ec1c9c8eb8239491c321d21ae44404416509
+> git config --get commit.template
+> git show --textconv :config/routes.rb
