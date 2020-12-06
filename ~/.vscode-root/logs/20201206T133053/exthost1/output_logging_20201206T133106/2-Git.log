@@ -147,3 +147,46 @@ Open repository: /home/jesusb/Documentos/blog5
 > git cat-file -s e974ec1c9c8eb8239491c321d21ae44404416509
 > git config --get commit.template
 > git show --textconv :config/routes.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/routes.rb
+> git cat-file -s e974ec1c9c8eb8239491c321d21ae44404416509
+> git show --textconv :config/routes.rb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/routes.rb
+> git config --get commit.template
+> git cat-file -s e974ec1c9c8eb8239491c321d21ae44404416509
+> git show --textconv :config/routes.rb
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/jesusb/Documentos/blog5/config/routes.rb
+> git check-ignore -v -z --stdin
+> git show --textconv :config/database.yml
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/database.yml
+> git cat-file -s 4a8a1b26fed93b52173638fd3f67e20e54379c05
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
