@@ -1,0 +1,19 @@
+[2020-12-06 13:31:00.010] [sharedprocess] [info] main {"machineId":"209f4f853a2e7815f85b340fb087e844dd5f2b47eda1127b4321f30b00cde2fd","windowId":2}
+[2020-12-06 13:31:00.367] [sharedprocess] [info] melvinguerrero.latino-vscode 1.0.2 Running post uninstall script
+[2020-12-06 13:31:00.713] [sharedprocess] [error] melvinguerrero.latino-vscode 1.0.2 post-uninstall internal/modules/cjs/loader.js:847
+    throw err;
+    ^
+
+Error: Cannot find module '/root/.vscode/extensions/melvinguerrero.latino-vscode-1.0.2/out/src/lifecycle'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:844:17)
+    at Module._load (internal/modules/cjs/loader.js:737:27)
+    at Function.Module._load (electron/js2c/asar.js:769:28)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1103:10)
+    at internal/main/run_main_module.js:17:11 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+[2020-12-06 13:31:00.723] [sharedprocess] [error] melvinguerrero.latino-vscode 1.0.2 Failed to run post uninstall script: post-uninstall process exited with code 1
+[2020-12-06 13:31:00.867] [sharedprocess] [info] Deleted from disk melvinguerrero.latino-vscode /root/.vscode/extensions/melvinguerrero.latino-vscode-1.0.2
+[2020-12-06 13:31:40.055] [sharedprocess] [info] Starting to clean up unused language packs.
