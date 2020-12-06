@@ -5,15 +5,15 @@ default: &default
 
 development:
   <<: *default
-  database: books_development
+  database: blog5_development
 
 test: &test
   <<: *default
-  database: books_test<%= ENV['TEST_ENV_NUMBER'] %>
+  database: blog5_test<%= ENV['TEST_ENV_NUMBER'] %>
 
 production:
   <<: *default
-  database: books_production
+  database: blog5_production
 
 cucumber:
   <<: *test

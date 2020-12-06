@@ -190,3 +190,86 @@ Open repository: /home/jesusb/Documentos/blog5
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname)
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/database.yml
+> git config --get commit.template
+> git cat-file -s e6432b1ff7a6d50505aaa06f290f9ce662f35403
+> git show --textconv :config/database.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/database.yml
+> git config --get commit.template
+> git cat-file -s e6432b1ff7a6d50505aaa06f290f9ce662f35403
+> git show --textconv :config/database.yml
+> git show --textconv :app/views/welcome/index.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/views/welcome/index.html.erb
+> git cat-file -s 7a43a6f4d83b0b073fb7ac0c59c2c93b13cd4f11
+> git check-ignore -v -z --stdin
+> git show --textconv :config/routes.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/routes.rb
+> git cat-file -s e974ec1c9c8eb8239491c321d21ae44404416509
+> git show --textconv :config/database.yml
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/database.yml
+> git cat-file -s e6432b1ff7a6d50505aaa06f290f9ce662f35403
+> git show --textconv :config/routes.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/routes.rb
+> git cat-file -s e974ec1c9c8eb8239491c321d21ae44404416509
+> git show --textconv :app/views/welcome/index.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/app/views/welcome/index.html.erb
+> git cat-file -s 7a43a6f4d83b0b073fb7ac0c59c2c93b13cd4f11
+> git show --textconv :config/routes.rb
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/routes.rb
+> git cat-file -s e974ec1c9c8eb8239491c321d21ae44404416509
+> git show --textconv :config/database.yml
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/database.yml
+> git cat-file -s e6432b1ff7a6d50505aaa06f290f9ce662f35403
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :config/webpack/development.js
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/webpack/development.js
+> git cat-file -s c5edff94ad2d18655b31731c9ea7a767f5ba0712
+> git show --textconv :config/webpack/environment.js
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/webpack/environment.js
+> git cat-file -s d16d9af7434fab65b18780112a0427417e06dcd9
+> git show --textconv :config/webpack/production.js
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/webpack/production.js
+> git cat-file -s be0f53aacf06b56e941de6a803ad538b414338dd
+> git show --textconv :config/webpack/test.js
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/webpack/test.js
+> git cat-file -s c5edff94ad2d18655b31731c9ea7a767f5ba0712
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :config/database.yml
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/database.yml
+> git cat-file -s e6432b1ff7a6d50505aaa06f290f9ce662f35403
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jesusb/Documentos/blog5/config/database.yml
+> git cat-file -s 0af08c9f34ed9f1a612cc3b172f7264aa550e7db
+> git show --textconv :config/database.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
